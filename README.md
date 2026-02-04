@@ -40,6 +40,4 @@ Drowsy driving is a leading cause of road fatalities. This project implements a 
 * **Alert System:** If `counter > THRESHOLD`, a sound alert is triggered using `winsound` or `pygame`.
 
 ---
-=======
-# driver-dowsiness-detection
->>>>>>> bf7d2f5450a60170e51b5666e4ed79bd3ccc9c2f
+
